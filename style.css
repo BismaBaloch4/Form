@@ -1,0 +1,61 @@
+body {
+    background-image: url("/images/2.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.wrapper {
+    width: 350px;
+    height: 440px;
+    color: white;
+    border-radius: 20px;
+    border: 1px solid white;
+    margin-left: 470px;
+    margin-top: 100px;
+    background-color: rgba(104, 52, 89, 0.534);
+}
+ h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+#email {
+    width: 80%;
+    height: 20px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: white;
+    margin-left: 30px;
+    background-color:transparent
+}
+#password {
+    width: 80%;
+    height: 20px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: white;
+    margin-left: 30px;
+    background-color: transparent
+}
+p {
+    margin-left: 30px;
+}
+#check {
+    margin-left: 30px;
+}
+.btn {
+    width: 80%;
+    height: 40px;
+    font-size: 20px;
+    margin-left: 30px;
+    border-radius: 50px;
+    border-color: white;
+}
+.ch {
+    font-size: 17px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
