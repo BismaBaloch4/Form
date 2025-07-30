@@ -7,7 +7,8 @@ body {
     background-repeat: no-repeat;
 }
 .wrapper {
-    width: 350px;
+    width: 90%;
+    max-width: 350px;
     height: 440px;
     color: white;
     border-radius: 20px;
